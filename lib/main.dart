@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('hellogit '),
+        title: Text('welcome'),
         actions: [
           IconButton(
               icon: Icon(Icons.person),
