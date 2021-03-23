@@ -13,7 +13,7 @@ class _OrderNowState extends State<OrderNow> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('Shopping Cart'),
+          title: Text('Shopping fddfho'),
         ),
         body: StreamBuilder(
           stream: FirebaseFirestore.instance
