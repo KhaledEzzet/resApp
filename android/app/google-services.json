@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085124574609",
+    "project_id": "khamsat-2dd01",
+    "storage_bucket": "khamsat-2dd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085124574609:android:f9af5bc7703da375b5ae30",
+        "android_client_info": {
+          "package_name": "com.example.khmsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085124574609-vebgmcfhbm2dofcm3espih0uft8jgosk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTCmJ46d7kt9Rvs1cAIQ4kTQLsC_wWNCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085124574609-vebgmcfhbm2dofcm3espih0uft8jgosk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
